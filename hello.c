@@ -1,8 +1,7 @@
 #include<stdio.h>
 
 int main() {
-
-	printf("Hey Alpha, you'll do it.\n") ; 
+	printtf("Beta !\n"); 
 	return 0 ; 
 }
 
